@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter-special-dirac-delta",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Create an iterator which evaluates the Dirac delta function for each iterated value.",
   "license": "Apache-2.0",
   "author": {
